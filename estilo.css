@@ -1,0 +1,45 @@
+body {
+    background: rgb(133, 133, 240);
+    font: normal 15pt arial;
+}
+
+header{
+    text-align: center;
+    color: white;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.466);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#boton {
+    background: white;
+    border: black;
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.336);
+    font-size: 20px;
+}
+
+#info {
+    text-align: center;
+}
+
+#txtano {
+    border-radius: 20px;
+}
+
+#res {
+    text-align: center;
+    padding: 7px;
+}
